@@ -1,0 +1,11 @@
+# 忽略 Python 虛擬環境
+.venv/
+venv/
+ENV/
+
+# 忽略 Python 快取
+__pycache__/
+*.pyc
+
+# 忽略 Jupyter Notebook 的暫存檔
+.ipynb_checkpoints/
